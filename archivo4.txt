@@ -1,10 +1,8 @@
 Soy Noe y modifico el archivo nùmero 4 txt
 Modifico de nuevo este archivo
 
-Tercer cambio al archivo con checkout de comando
+Nuevo texto de prueba soy julian
 
-Cuarto cambio desde windows
-
-Por acá pasa Julian- edicón punto 4
+Texto de prueba
 
 Edicion para punto4

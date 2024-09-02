@@ -1,5 +1,6 @@
 Archivo de texto 1 - Prueba Git
-Hola ,soy julian y modifico este archivo para la realización del punto 4.
+Nuevo texto de prueba soy julian
+Texto de prueba
 
 Por acá pasa Noe - edicón punto 4
 
