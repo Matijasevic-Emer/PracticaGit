@@ -1,4 +1,4 @@
 Archivo de texto 1 - Prueba Git
 Hola ,soy Ale y modifico este archivo para la realización del punto 3.
 
-Por acá pasa Noe - edicón punto 4
+Por acá pasa Noe - edicón punto 4 - se corrige 
