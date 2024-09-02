@@ -1,8 +1,6 @@
-Soy Noe y modifico el archivo nùmero 4 txt
-Modifico de nuevo este archivo
+Resolviendo el conflicto
+Texto resolviendo
 
-Nuevo texto de prueba soy julian
-
-Texto de prueba
+Para Resolver
 
 Edicion para punto4

@@ -1,7 +1,6 @@
-Archivo de texto 1 - Prueba Git
-Nuevo texto de prueba soy julian
-Texto de prueba
+Resolviendo el conflicto
+Texto resolviendo
 
-Por acá pasa Noe - edicón punto 4
+Para Resolver
 
 Edicion para punto4

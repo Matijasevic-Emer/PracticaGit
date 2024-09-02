@@ -1,6 +1,5 @@
-Modificacion de archivo3
-Nuevo texto de prueba soy julian
+Resolviendo el conflicto
+Texto resolviendo
 
-Texto de prueba
-
+Para Resolver
 Edicion para punto4

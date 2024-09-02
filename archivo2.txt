@@ -1,5 +1,6 @@
-Es un cambio de Julian
-Nuevo texto de prueba soy julian
-Texto de prueba
+Resolviendo el conflicto
+Texto resolviendo
+
+Para Resolver
 
 Edicion para punto4
