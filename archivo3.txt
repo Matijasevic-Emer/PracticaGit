@@ -3,5 +3,8 @@ Texto prueba
 Texto prueba
 Texto prueba
 Texto prueba
+Resolviendo el conflicto
+Texto resolviendo
 
+Para Resolver
 Edicion para punto4
