@@ -1,1 +1,2 @@
 Archivo de texto 2 - Prueba Git Ale
+Probando usar el comando git switch.
