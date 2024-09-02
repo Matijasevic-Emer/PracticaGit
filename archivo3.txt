@@ -1,4 +1,16 @@
-Modificacion de archivo3
+Creando conflicto 
+Texto prueba
+Texto prueba
+Texto prueba
+Texto prueba
+Resolviendo el conflicto
+Texto resolviendo
 
 Por acá pasa Noe - edicón punto 4 - se corrige
 Por acá pasa Noe - edición punto 4
+Para Resolver
+Edicion para punto4
+Por acá pasa Noe - edicón punto 4
+Por acá pasa Ale - edicón punto 4
+
+Agregando cambios eje 4 ale.

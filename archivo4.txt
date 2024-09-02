@@ -1,9 +1,19 @@
-Soy Noe y modifico el archivo nùmero 4 txt
-Modifico de nuevo este archivo
+Creando conflicto 
+Texto prueba
+Texto prueba
+Texto prueba
+Texto prueba
+Resolviendo el conflicto
+Texto resolviendo
 
-Tercer cambio al archivo con checkout de comando
+Para Resolver
 
+Edicion para punto4
 Cuarto cambio desde windows
 
 Por acá pasa Noe - edicón punto 4 - se corrige 
 Por acá pasa Noe - edición punto 4
+Por acá pasa Noe - edicón punto 4
+Por acá pasa Ale - edicón punto 4 esto lo hice en rama dev 2
+
+Agregando cambios eje 4 ale.

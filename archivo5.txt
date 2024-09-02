@@ -1,2 +1,22 @@
 Por acá pasa Noe - edicón punto 4 - se corrige 
 Por acá pasa Noe - edición punto 4 
+Creando conflicto 
+Texto prueba
+Texto prueba
+Texto prueba
+Texto pruebaCreando conflicto 
+Texto prueba
+Texto prueba
+Texto prueba
+Texto prueba
+Resolviendo el conflicto
+Texto resolviendo
+
+Para Resolver
+ punto 4
+Por acá pasa Noe - edicón punto 4
+Por acá pasa Ale - edicón punto 4 esto lo hice en rama dev 2
+Esto lo hago desde la rama devAle 
+
+
+Agregando cambios eje 4 ale.
