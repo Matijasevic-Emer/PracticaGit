@@ -12,3 +12,9 @@ Texto resolviendo
 
 Para Resolver
  punto 4
+Por acá pasa Noe - edicón punto 4
+Por acá pasa Ale - edicón punto 4 esto lo hice en rama dev 2
+Esto lo hago desde la rama devAle 
+
+
+Agregando cambios eje 4 ale.
