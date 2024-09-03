@@ -14,3 +14,6 @@ Por acá pasa Noe - edicón punto 4
 Por acá pasa Ale - edicón punto 4
 
 Agregando cambios eje 4 ale.
+Modificacion de Ale para conflicto archivo3
+
+Eje 4 creando conflicto
