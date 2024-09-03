@@ -1,5 +1,7 @@
 creando un conflicto soy emer 
 texto prueba
+RECREANDO conflicto 
+Texto prueba
 Texto prueba
 Texto prueba
 Texto prueba
