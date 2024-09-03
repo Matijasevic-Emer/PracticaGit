@@ -1,10 +1,11 @@
-Creando conflicto 
-Texto prueba
+creando un conflicto soy emer 
+texto prueba
 Texto prueba
 Texto prueba
 Texto prueba
 Resolviendo el conflicto
 Texto resolviendo
+
 
 Por acá pasa Noe - edicón punto 4 - se corrige 
 Por acá pasa Noe - edición punto 4
